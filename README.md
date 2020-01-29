@@ -5,4 +5,4 @@ This repository is being used to collect comments, questions, and suggestions on
 Full contents is in the [Wiki](https://github.com/ADumaine/LCS-hybrid-proposal/wiki/Proposal)
 
 
-All Rights Reserved
+&copy; RedHawk Software - All Rights Reserved
